@@ -7,3 +7,9 @@ Jako rozwiązanie przesłać kod programu wykonującego pomiary z dołączonymi 
 ## Zjazd 2:
 
 Zaimplementuj algorytm sortowania przez kopcowanie z prezentacji (0.5 pkt)
+
+## Zjazd 3:
+
+1. Zaimplementuj QuickSort w wersja Lomuto z prezentacji, z wykładu
+2. Napisz drugą wersję funkcji podziału A[(p+r)//2] <-> A[r]
+3. Zmierz czas działania dla obu funkcji
