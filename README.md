@@ -13,3 +13,7 @@ Zaimplementuj algorytm sortowania przez kopcowanie z prezentacji (0.5 pkt)
 1. Zaimplementuj QuickSort w wersja Lomuto z prezentacji, z wykładu
 2. Napisz drugą wersję funkcji podziału A[(p+r)//2] <-> A[r]
 3. Zmierz czas działania dla obu funkcji
+
+## Zjazd 3 - Bonus:
+
+Zaimplementuj algorytm kodów Huffmana z możliwością odczytania tekstu z pliku i zapisem zakodowane tekstu do osobnego pliku.
